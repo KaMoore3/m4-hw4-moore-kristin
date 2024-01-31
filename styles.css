@@ -7,3 +7,7 @@ margin-right: auto;}
 a{color: darkolivegreen;}
 .topnav a {background-color: black;overflow: hidden; color: ffffff; padding: 10; margin: 5;}
 h1,h2,h3 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+p.start {color: crimson; ;}
+h1,h2,h3,p {margin: 10px;}
+footer {text-align: center;}
+ul > .founder {color: cornflowerblue;}
